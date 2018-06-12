@@ -4,10 +4,7 @@ permalink: /publications/
 excerpt: "Publication list."
 ---
 
-Here you will find my publications, most of them are available on research gate.
+Here you will find a recent list of my publications, most of them are available on Research gate.
 
-## Notable Features
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
+<script src="https://bibbase.org/service/mendeley/38d7b214-d061-3901-97f3-ba687a2f93a2?jsonp=1"></script>
