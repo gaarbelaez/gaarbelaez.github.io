@@ -12,12 +12,12 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaarbelaez personal site"
-title_separator          : "-"
+title                    : "Gaarbelaez"
+title_separator          : "|"
 name                     : "Gaarbelaez"
 description              : "Gaarbelaez personal site"
 url                      : #gaarbelaez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Giovanny Arbelaez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/GA.jpg" # path of avatar image, e.g. "/assets/images/GA.jpg"
   bio              : "I am researcher."
   location         : "Nancy, France"
   email            :
@@ -268,4 +268,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: #true
