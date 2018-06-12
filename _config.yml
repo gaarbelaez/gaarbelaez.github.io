@@ -20,7 +20,7 @@ title                    : "Gaarbelaez"
 title_separator          : "|"
 name                     : "Gaarbelaez"
 description              : "Gaarbelaez personal site"
-url                      : gaarbelaez.github.io #gaarbelaez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #gaarbelaez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #gaarbelaez/gaarbelaez.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Giovanny Arbelaez"
   avatar           : "/assets/images/GA.jpg" # path of avatar image, e.g. "/assets/images/GA.jpg"
-  bio              : "New product development researcher."
+  bio              : "New products' acceptability researcher."
   location         : "Nancy, France"
   email            :
   uri              :
@@ -196,10 +196,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -267,7 +267,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: #true
       related: #true
   # _pages
   - scope:

@@ -4,8 +4,8 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/intro-to-research/",
         "teaser":null},{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["jekyll","update"],
+        "title": "Welcome",
+        "excerpt":"Hi, this is my personal site. Here you will find some info about me, my research and projects but from a personal perspective. ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/jekyll/update/welcome-to-jekyll/",
+        "url": "http://localhost:4000/welcome-to-jekyll/",
         "teaser":null}]
