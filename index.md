@@ -8,7 +8,7 @@ header:
 ---
 ## About me
 
-Hi, I'm Giovanny. I'm a researcher working on new product development acceptance assessment.
+Hi, my name is Giovanny Arbelaez. I'm a researcher working on new product development acceptance assessment. I currently work at the [Lorraine Fab Living Lab](http://lf2l.fr "lf2l") as a Research associate.
 
 ## Research interest
 
