@@ -80,6 +80,6 @@ excerpt: Resume
 
 ## Language Skills
 
--Spanish: 
--French
--English
+- Spanish 
+- French
+- English
