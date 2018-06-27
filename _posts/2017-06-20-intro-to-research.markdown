@@ -2,8 +2,8 @@
 layout: single
 title: Visualisation test of 3D model
 date: 2018-06-26 09:53:24 +0000
-author_profile: false
-read_time: false
+author_profile: true
+read_time: true
 comments: ''
 share: ''
 related: ''
