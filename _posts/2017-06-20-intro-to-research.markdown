@@ -8,8 +8,6 @@ comments: ''
 share: ''
 related: ''
 ---
-<!-- This post presents a research test. header:
-image: /assets/images/header.jpg -->
 
 This post presents a test for a 3D model visualisation using [p3d.in](https://p3d.in) iframe. The example used the [Agisoft PhotoScan](http://www.agisoft.com/) doll example data frame.
 
