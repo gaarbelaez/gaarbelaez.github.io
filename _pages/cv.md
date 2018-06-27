@@ -25,7 +25,7 @@ excerpt: Resume
 ## Work Experience
 
 2017-Present
-:	**Research Associate**; Université de Lorraine
+:	**Research Associate**; Université de Lorraine (Nancy, France)
 
 	Researcher at Lorraine Fab Living Lab of the ERPI Laboratory.
 	Responsible for the development of use assessment protocols to better understand the users' experience to provide better products and services. 
@@ -39,10 +39,47 @@ excerpt: Resume
 	- Smart-mobility solutions co-design
 
 2015-2017
-:	**Teaching and Research Assistant**; Université de Lorraine
+:	**Teaching and Research Assistant**; Université de Lorraine (Nancy, France)
 
 	Researcher at the ERPI Laboratory.
 	My research focused on understanding users' experience to provide better products and services. 
 	
 	Teaching at the [ENSGSI](https://www.ensgsi.univ-lorraine.fr) engineering school courses on: Logistics, Project Management, Agile Methodologies, Decision-Making, Control of Linear Systems and Optimization methods, Big-data for Smart-city development.
 
+2012-2016
+:	**PhD researcher**; Université de Lorraine (Nancy, France)
+
+	Researcher at the ERPI Laboratory.
+
+	Research: Integrating users' preferences during the co-design process. New product acceptability evaluation and improvement. user-driven innovation, socio-technical systems design, healthcare systems. Use of Bayesian networks to evaluate a product's acceptability through data-mining and prediction of future scenarios.
+
+2010-2011
+:	**Development engineer**; CAV ingenieros (Cali, Colombia)
+
+	Design and develop industrial automation solutions. Help clients to identify their industrial automation needs. Design automation solutions integrating computer vision systems (Cognex), PLC and industrial robotics (KUKA). 
+
+	Development of an automatic label recognition system for product quality improvement in Johnson&Johnson (Cali, CO). 
+
+	Design and development of a automatic quality control for an Intravenous Sodium Bicarbonate production line Baxter Laboratories (Cali, CO).
+
+2009-2010
+:	**IT coordinator** Azurita S.A. (Cali, Colombia)
+
+	Design and coordinate automation (domotic) projects: CASONA (Cali), Cartagena's appartments, Key Biscayne Site (USA), Main office (Cali).
+
+	Project management and coordination between a multidisciplinary team (architects, electrical engineers, software developers and technicians) from design to the implementation phase.
+
+2008-2009
+:	**Automation engineer** Omnicon S.A. (Cali, Colombia)
+
+	Engineer of the international project's team. 
+
+	Design and implementation of different industrial automation projects. 
+
+	Development, implementation, and commissioning of the Tate&Lyle's Fort Dodge (IA, USA) industrial site.
+
+## Language Skills
+
+-Spanish: 
+-French
+-English
