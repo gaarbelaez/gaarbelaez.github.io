@@ -1,7 +1,10 @@
 ---
-title: "Resume"
-permalink: /cv/
-excerpt: "Resume"
+title: Resume
+permalink: "/cv/"
+excerpt: Resume
 ---
+# Education and Training
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+**PhD Industrial system engineering** - Université de Lorraine, France. {: .text-right}  
+Subject: Integration of stakeholders' preferences in the co-design process: application in the healthcare system  
+Supervisors: Professor Eric Bonjour, Associate professor Auguste Rakotondranaivo
