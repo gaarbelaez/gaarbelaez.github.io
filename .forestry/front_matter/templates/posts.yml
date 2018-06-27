@@ -43,5 +43,6 @@ fields:
   hidden: false
   default: 
 pages:
+- _posts/best-reviewer-award-ice2018-conference.md
 - _posts/2017-06-20-intro-to-research.markdown
 - _posts/2018-06-11-welcome-to-jekyll.markdown
