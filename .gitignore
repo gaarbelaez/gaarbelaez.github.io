@@ -2,5 +2,5 @@ vendor
 .sass-cache
 .jekyll-metadata
 _site
-.Gemfile
-.Gemfile.lock
+Gemfile
+Gemfile.lock
