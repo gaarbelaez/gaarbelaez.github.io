@@ -27,8 +27,9 @@ excerpt: Resume
 2017-Present
 :	**Research Associate**; Université de Lorraine (Nancy, France)
 
-	Researcher at Lorraine Fab Living Lab of the ERPI Laboratory.
-	Responsible for the development of use assessment protocols to better understand the users' experience to provide better products and services. 
+	Researcher at Lorraine Fab Living Lab of the [ERPI Laboratory](https://erpi.univ-lorraine.fr).
+	Responsible for the development of use assessment protocols to better understand the users' experience to provide better products and services.
+	Working on the joint-research program [N-hum-inno](https://n-hum-inno.eu) (ANR LabCom)
 	
 	Some research projects include:
 	- Integrating users' preferences during the co-design process.
