@@ -59,16 +59,16 @@ excerpt: Resume
 
 	Design and develop industrial automation solutions. Help clients to identify their industrial automation needs. Design automation solutions integrating computer vision systems (Cognex), PLC and industrial robotics (KUKA). 
 
-	Development of an automatic label recognition system for product quality improvement in Johnson&Johnson (Cali, CO). 
+	Development of an automatic label recognition system for product quality improvement on the industrial site of Johnson&Johnson (Cali, CO). 
 
-	Design and development of a automatic quality control for an Intravenous Sodium Bicarbonate production line Baxter Laboratories (Cali, CO).
+	Design and development of a automatic quality control for an Intravenous Sodium Bicarbonate production line of Baxter Laboratories (Cali, CO).
 
 2009-2010
 :	**IT coordinator** Azurita S.A. (Cali, Colombia)
 
 	Design and coordinate automation (domotic) projects: CASONA (Cali), Cartagena's appartments, Key Biscayne Site (USA), Main office (Cali).
 
-	Project management and coordination between a multidisciplinary team (architects, electrical engineers, software developers and technicians) from design to the implementation phase.
+	Project management and coordination between a multidisciplinary team (architects, electrical engineers, software developers and technicians) from design to implementation phase.
 
 2008-2009
 :	**Automation engineer** Omnicon S.A. (Cali, Colombia)
