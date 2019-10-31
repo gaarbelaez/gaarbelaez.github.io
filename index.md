@@ -10,11 +10,12 @@ header:
 
 Hi, my name is Giovanny Arbelaez. I'm a researcher working on new product development acceptance assessment. 
 
-I currently work at the [Lorraine Fab Living Lab](http://lf2l.fr "lf2l") as a Research associate.
+I currently work at the [Lorraine Fab Living Lab](http://lf2l.fr "lf2l") and [ERPI laboratory](https://erpi.univ-lorraine.fr) of the [Université de Lorraine](https://univ-lorraine.fr) as a Research associate. I'm part of the joint-research lab [N-hum-inno](https://n-hum-inno.eu).
 
 ## Research interest
 
-* Use assessment with eyetracking
+* Use assessment with eyetracking and biometrics
+* Assessment of human activity in virtual reality and immersive environments
 * Acceptability assesment
 * Bayesian networks and Machine Learning
 * Digital transformation of museums and cultural heritage from the use perspective
