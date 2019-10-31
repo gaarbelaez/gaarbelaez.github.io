@@ -20,7 +20,7 @@ excerpt: Resume
 2003-2008
 : 	**BE. Electronic Engineering**; Pontificia Universidad Javeriana (Cali, Colombia)
 
-	*Subject: Robotic collaborative photo-sahring system for Koadak Eastman Co. as part of the [ME310](https://web.stanford.edu/group/me310/me310_2018/) Standford University course*
+	*Subject: Robotic collaborative photo-sahring system for Kodak Eastman Co. as part of the [ME310](https://web.stanford.edu/group/me310/me310_2018/) Standford University course*
 
 ## Work Experience
 
