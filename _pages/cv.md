@@ -23,8 +23,13 @@ excerpt: Resume
 	*Subject: Robotic collaborative photo-sahring system for Kodak Eastman Co. as part of the [ME310](https://web.stanford.edu/group/me310/me310_2018/) Standford University course*
 
 ## Work Experience
+2022-Present 
+: 	**Lecturer**; Université de Strasbourg, Laboratoire ICube (Strasbourg, France). 
 
-2017-Present
+	Teaching for the Industrial Engineering spés. Industrial Productics and Design Engineering at the Faculty of Physics and Engineering. UE: 	Introduction to research, Optimum quality, Project management (agile projects), Business intelligence and strategy, Environmental 		excellence. Teaching tutor for 7 M1 work-study students.
+	Research with the CSIP team at the ICube laboratory: development of protocols for evaluating the use and ergonomics of new products; tool 	for analyzing the manual handling task and the influence of the exoskeleton support in virtual reality (project selected in the iCube 2023 	internal API).
+
+2017-2022
 :	**Research Associate**; Université de Lorraine (Nancy, France)
 
 	Researcher at Lorraine Fab Living Lab of the [ERPI Laboratory](https://erpi.univ-lorraine.fr).
