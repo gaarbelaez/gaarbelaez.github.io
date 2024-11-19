@@ -10,8 +10,8 @@ header:
 
 Hi, my name is Giovanny Arbelaez. I'm a researcher working on new product development acceptance assessment. 
 
-I currently work at the University of Strasbourg at the [Faculty of physics & engineering](https://physique-ingenierie.unistra.fr), and at the CSIP team of the ICube laboratory.
-I previously worked at [Lorraine Fab Living Lab](http://lf2l.fr "lf2l") and [ERPI laboratory](https://erpi.univ-lorraine.fr) of the [Université de Lorraine](https://univ-lorraine.fr) as a Research associate. I'm part of the joint-research lab [N-hum-inno](https://n-hum-inno.eu).
+I am an Associate professor (*Maître de conferences*) at the University of Strasbourg at the [Faculty of physics & engineering](https://physique-ingenierie.unistra.fr), and at the CSIP team of the ICube laboratory.
+I previously worked at [Lorraine Fab Living Lab](http://lf2l.fr "lf2l") and [ERPI laboratory](https://erpi.univ-lorraine.fr) of the [Université de Lorraine](https://univ-lorraine.fr) as a Research associate. I coordinated the activities of the joint-research lab [N-hum-inno](https://n-hum-inno.eu).
 
 ## Research interest
 
